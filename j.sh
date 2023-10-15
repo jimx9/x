@@ -27,5 +27,5 @@ sudo dnf update
 
 sudo dnf install -y tmux 
 tmux new-session -d -s my_session
-tmux send-keys -t my_session 'sudo ./xmrig -o pool.supportxmr.com:5555 -u 857DLWa5jVMNtENDzoZ8jYWbwbYyxzyuZbD1bZqM7teTQiErKdRDfJoX95iPiuErA73zU2KQd5TRKRSkJ58GA5KQ9EpEd7j' C-m
+tmux send-keys -t my_session 'sudo ./xmrig -o pool.supportxmr.com:5555 -u 83Tt6f6sY3u99Qi1JozQ3qcpCynMr2L1wHsE3VuXrm623wyjqpiiwLbFAZww2no1tZUesVWEQnY3g5Cwr6m9XGtdVnebQBz' C-m
 
